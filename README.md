@@ -1,2 +1,2 @@
 # Estudos
- Meus estudos programação
+Estudos
